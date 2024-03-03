@@ -1,0 +1,20 @@
+ [
+   {
+     "nama": "bambang",
+     "nrp": 12554,
+     "email": "email bambang",
+     "jurusan": "serpong"
+   },
+   {
+     "nama": "budi",
+     "nrp": 12554,
+     "email": "email budi",
+     "jurusan": "serpong"
+   },
+   {
+     "nama": "super",
+     "nrp": 12554,
+     "email": "email super",
+     "jurusan": "serpong"
+   }
+ ]
