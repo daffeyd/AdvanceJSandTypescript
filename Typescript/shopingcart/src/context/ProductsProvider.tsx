@@ -48,6 +48,9 @@ export const ProductsProvider = ({ children }: ChildrenType): ReactElement => {
 
   //     fetchProducts().then(products => setProducts(products))
   // }, [])
+  //
+  // to run this code you can create an dummy endpoints type in terminal-> npx json-server -w src/data/products.json -p 3500
+  // and set init state to empty array
 
   return (
     <ProductsContext.Provider value={{ products }}>

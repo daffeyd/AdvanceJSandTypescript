@@ -145,3 +145,4 @@ export const CartProvider = ({ children }: ChildrenType): ReactElement => {
 };
 
 export default CartContext;
+
